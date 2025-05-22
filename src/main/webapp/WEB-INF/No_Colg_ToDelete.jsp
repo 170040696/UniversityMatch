@@ -1,0 +1,1 @@
+<h1><p>No College to delete With the given ID</p></h1>
